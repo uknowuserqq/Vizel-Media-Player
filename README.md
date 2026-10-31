@@ -22,3 +22,4 @@ Vizel was created to avoid playing music from heavy websites such as Spotify, Yo
  - "background_color": "#14111f",
  - "debug": false
 
+<img width="1042" height="636" alt="Captura de pantalla 2026-10-31 185058" src="https://github.com/user-attachments/assets/c1c36f45-2955-44eb-8f21-31ea02bff9d0" />
